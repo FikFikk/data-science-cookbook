@@ -14,6 +14,7 @@ Kumpulan repositori riset dan tutorial teknik Machine Learning & Data Science pr
 | 6 | **Gradient Boosting** | Ensemble Learning | Implementasi algoritma Gradient Boosting dari dasar beserta intuitive breakdown. | [Lihat Tutorial](techniques/gradient-boosting/) |
 | 7 | **Imbalanced Classification** | Classification | Penanganan class imbalance pada dataset dengan SMOTE, Class Weight, dan Rescaling. | [Lihat Tutorial](techniques/imbalanced-classification/) |
 | 8 | **SHAP Explainable AI** | Interpretable ML | Analisis atribusi fitur terinterpretasi menggunakan nilai SHAP dengan LightGBM. | [Lihat Tutorial](techniques/shap-explainable-ai/) |
+| 9 | **Quantile Regression** | Uncertainty Estimation | Prediksi interval dan estimasi risiko dengan quantile regression — distribusi penuh, bukan hanya mean. | [Lihat Tutorial](techniques/quantile-regression/) |
 
 ---
 *Auto-generated knowledge repository by Hermes Agent.*
